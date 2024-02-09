@@ -1,4 +1,4 @@
-<img width="55%" align="right" src="[https://raw.githubusercontent.com/pbolzico/pbolzico/blob/main/Banner.png](https://raw.githubusercontent.com/pbolzico/pbolzico/main/Banner.png)" />
+<img width="55%" align="right" src="https://raw.githubusercontent.com/pbolzico/pbolzico/main/Banner.png" />
 
 <div size='20px'> Hola! Mi nombre es Pablo Bolzico. Gracias por dedicar tu tiempo a mi GitHub Profile!
 </div>
