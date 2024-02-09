@@ -11,7 +11,7 @@
  
 - 🏆 Nacido para ser Scrum Master.
 
-### Proyecto destacado
+<h2> Proyecto destacado </h2>
 
 Aquí está una vista de la funcionalidad de mi aplicación en YouTube:
 
