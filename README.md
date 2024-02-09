@@ -43,7 +43,7 @@ Aquí está una vista de la funcionalidad de mi aplicación en YouTube:
 <h2> Contacto <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/pablobolzico'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/pbolzico'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href='https://wa.me/343425172365'><img width='32px' align='center' src='https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'/></a>  
+<a href='https://wa.me/5493425172365'><img width='32px' align='center' src='https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg'/></a>  
 <a href='mailto:pablobolzico@gmail.com'><img width='32px' align='center' src='https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg'/></a>  
   
 <br>
