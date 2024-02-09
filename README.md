@@ -1,9 +1,9 @@
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/pbolzico/pbolzico/blob/main/Banner.png" />
+
 <div size='20px'> Hola! Mi nombre es Pablo Bolzico. Gracias por dedicar tu tiempo a mi GitHub Profile!
 </div>
 
 <h2> Sobre Mi </h2>
-
-<img width="55%" align="right" alt="Github" src="-----" />
 
 - 🔭 Soy Sociólogo y Master en Big Data & Business Intelligence
   
