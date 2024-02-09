@@ -1,6 +1,8 @@
-<img width="55%" align="right" src="https://raw.githubusercontent.com/pbolzico/pbolzico/main/Banner.png" />
+<!-- Banner -->
+<img style="display: block; margin: 0 auto; width: 100%;" src="https://raw.githubusercontent.com/pbolzico/pbolzico/main/Banner.png" />
 
-<div size='20px'> Hola! Mi nombre es Pablo Bolzico. Gracias por dedicar tu tiempo a mi GitHub Profile!
+<!-- Texto restante -->
+<div size='20px'> Hola! Gracias por dedicar tu tiempo a leer mi GitHub Profile!
 </div>
 
 <h2> Sobre Mi </h2>
